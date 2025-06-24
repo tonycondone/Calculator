@@ -1,5 +1,6 @@
 # Calculator App
 
+
 A lightweight and user-friendly calculator application hosted on **Google Cloud Platform (GCP)**.
 
 ## Key Features
